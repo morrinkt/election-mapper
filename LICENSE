@@ -1,0 +1,84 @@
+ELECTION-MAPPER TERMS OF USE AND LICENSING AGREEMENT
+
+AUTHOR: B. "morrinkt" Seid
+SOURCE: <http://www.github.com/morrinkt/election-mapper>
+
+This Agreement was last revised on 07 February 2017 , 20:00 EST.
+
+The author reserves the right to amend this Agreement at any time and without notice.
+If so, the author will post the amended Agreement and indicate at the top of the Agreement
+the date the Agreement was last revised.
+
+***********
+SECTION 'A'
+***********
+
+The following files are ineligible for copyright and therefore in the public domain
+because it consists entirely of information that is common property and contains no
+original authorship. Any licensing mentioned thereafter does not apply to these files.
+
+pics\q.png
+
+***********
+SECTION 'B'
+***********
+
+MIT License
+
+Copyright (c) 2017  B. "morrinkt" Seid
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+THIS LICENSE DOES NOT APPLY TO SCALABLE VECTOR GRAPHICS FILES ("SVG"), INCLUDED
+IN THE SOFTWARE. SEE SECTION 'C' FOR LICENSING REGARDING SVG FILES.
+
+***********
+SECTION 'C'
+***********
+
+(CC BY-SA 4.0) 2017 B. "morrinkt" Seid
+
+Sources:
+https://commons.wikimedia.org/wiki/File:USA_Counties.svg
+2014 "Français" - https://commons.wikimedia.org/wiki/File:India_grey.svg
+2015 "Ali Zifan" - https://commons.wikimedia.org/wiki/File:Japan-_Population_(2011).svg
+2015 "Brythones" - https://commons.wikimedia.org/wiki/File:2015UKElectionMap.svg
+2016 "TUBS" - https://commons.wikimedia.org/wiki/File:Germany_Federal_Election_2013_Map.svg
+2016 "Gage" - https://commons.wikimedia.org/wiki/File:ElectoralCollege2016.svg
+
+I, the copyright holder of this work, hereby publish the scalable vector graphics files ("SVG"),
+included in the Software, under the following license:
+
+These files are licensed under the Creative Commons Attribution-Share Alike 4.0 International license (CC BY-SA 4.0).
+
+You are free:
+
+    to share – to copy, distribute and transmit the work
+    to remix – to adapt the work
+
+Under the following conditions:
+
+    attribution – You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+    share alike – If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+
+Full legal documentation can be found at <http://creativecommons.org/licenses/by-sa/4.0/legalcode>.
+
+The above copyright notice and this permission notice pertains only to SVG files contained
+within the Software, and no other files. This notice shall be included in all copies or substantial
+portions of the Software that include these SVG files.

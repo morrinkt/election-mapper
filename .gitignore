@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.idea/
+
+# Non-implemented files
+election-mapper/util
+election-mapper/svg/svgroDEco.svg
+election-mapper/svg/svgroINst.svg
+election-mapper/svg/svgroJPst.svg
+election-mapper/svg/svgroUKco.svg
+election-mapper/svg/svgroUSco.svg
+
+# Test files
+election-mapper/pics/clinton.jpg
+election-mapper/pics/trump.jpg
+election-mapper/svgUS0.svg
+election-mapper/test
+election-mapper/save.png
